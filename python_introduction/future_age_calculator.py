@@ -1,4 +1,4 @@
-age = int(22("How old are you? "))
+age = 22
 
 future_age = age + 27
 
