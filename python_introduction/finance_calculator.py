@@ -10,4 +10,4 @@ annual_savings = monthly_savings * 12
 
 projected_savings = annual_savings + (annual_savings * interest_rate)
 
-print(f"Projected savings after one year,{yearly_savings} with interest, is:{projected_savings}")
+print(f"Projected savings after one year,{annual_savings} with interest, is:{projected_savings}")
